@@ -20,11 +20,11 @@ etc..
 
 - en este repositorio, en su pagina principal . sobre la lista de archivos haz click en Code.
 
-![img](https://github.com/toffycaluga/viajes_chile/tree/main/assets/img/inst-1.png)
+![img](./assets/img/inst-1.png)
 
 - luego copia la url de el repositorio
 
-![img](https://github.com/toffycaluga/viajes_chile/tree/main/assets/img/inst-2.png)
+![img](./assets/img/inst-2.png)
 
 utiliza el comando git clone para clonar este repositorio , desde tu terminal, ubicado en el directorio donde guardaras el proyecto:
 
